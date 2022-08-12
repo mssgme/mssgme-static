@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>506BE032-7A67-4616-8308-3555FDBDDF35</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M6.98984746,3 L3.20920944,6.78063801 C2.93026352,7.05958394 2.93026352,7.51184464 3.20920944,7.79079056 C3.48815536,8.06973648 3.94041606,8.06973648 4.21936199,7.79079056 L8.50507627,3.50507627 C8.78402219,3.22613035 8.78402219,2.77386965 8.50507627,2.49492373 L4.21936199,-1.79079056 C3.94041606,-2.06973648 3.48815536,-2.06973648 3.20920944,-1.79079056 C2.93026352,-1.51184464 2.93026352,-1.05958394 3.20920944,-0.780638013 L6.98984746,3 Z" id="path-1"></path>
+    </defs>
+    <g id="corporate-website-EN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage" transform="translate(-390.000000, -55.000000)">
+            <g id="header">
+                <g id="icon-arrow" transform="translate(390.000000, 56.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" stroke="#000000" stroke-width="0.4" fill="#000000" fill-rule="nonzero" transform="translate(5.857143, 3.000000) rotate(90.000000) translate(-5.857143, -3.000000) " xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

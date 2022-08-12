@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Avatar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Avatar">
+            <circle id="Oval-3" fill="#DDDDDD" cx="23" cy="23" r="23"></circle>
+            <text id="AS" font-family="SFUIText-Medium, SF UI Text" font-size="20" font-weight="400" fill="#FFFFFF">
+                <tspan x="9.54296875" y="30">AS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

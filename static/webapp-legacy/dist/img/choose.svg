@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="6px" viewBox="0 0 7 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_choose_nonactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Настройки" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Настройки-Inbox-–-Общие" transform="translate(-773.000000, -373.000000)" fill="#95979C">
+            <path d="M776.380567,373.21824 L779.004859,378.359819 L779.004859,378.359819 C779.10529,378.556585 779.027194,378.79751 778.830429,378.89794 C778.774121,378.92668 778.711802,378.941665 778.648584,378.941665 L773.4,378.941665 L773.4,378.941665 C773.179086,378.941665 773,378.762579 773,378.541665 C773,378.478446 773.014984,378.416128 773.043724,378.359819 L775.668016,373.21824 L775.668016,373.21824 C775.768446,373.021474 776.009371,372.943379 776.206137,373.043809 C776.281205,373.082124 776.342252,373.143172 776.380567,373.21824 Z" id="icon_choose_nonactive" transform="translate(776.024334, 375.970832) scale(1, -1) translate(-776.024334, -375.970832) "></path>
+        </g>
+    </g>
+</svg>

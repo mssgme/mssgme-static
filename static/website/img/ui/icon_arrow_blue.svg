@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>FC7101A8-0EE4-4E6B-BEDA-73B5A579C084</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M4.78781695,6 L0.25105133,10.5367656 C-0.0836837768,10.8715007 -0.0836837768,11.4142136 0.25105133,11.7489487 C0.585786438,12.0836838 1.12849928,12.0836838 1.46323438,11.7489487 L6.60609153,6.60609153 C6.94082663,6.27135642 6.94082663,5.72864358 6.60609153,5.39390847 L1.46323438,0.25105133 C1.12849928,-0.0836837768 0.585786438,-0.0836837768 0.25105133,0.25105133 C-0.0836837768,0.585786438 -0.0836837768,1.12849928 0.25105133,1.46323438 L4.78781695,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Corporate-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page" transform="translate(-474.000000, -2988.000000)">
+            <g id="Group-12" transform="translate(220.000000, 2600.000000)">
+                <g id="Group-4-Copy" transform="translate(0.000000, 378.000000)">
+                    <g id="icon_arrow_grey-copy" transform="translate(254.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#0070C9" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

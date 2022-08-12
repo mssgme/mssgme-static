@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="12px" viewBox="0 0 90 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-lines-with-rounds</title>
+    <desc>Created with Sketch.</desc>
+    <g id="corporate-website-EN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-Copy-4" transform="translate(-441.000000, -1068.000000)" fill-rule="nonzero">
+            <g id="icon-lines-with-rounds" transform="translate(441.000000, 1068.000000)">
+                <rect id="Rectangle" fill="#111111" x="0" y="5" width="84" height="2" rx="1"></rect>
+                <circle id="Oval" stroke="#111111" stroke-width="2" fill="#FFFFFF" cx="84" cy="6" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

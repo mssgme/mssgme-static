@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_facebook_messegner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.34821429%" x2="50%" y2="99.5555644%" id="linearGradient-1">
+            <stop stop-color="#03C5FF" offset="0%"></stop>
+            <stop stop-color="#027AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Настройки-–-Общие-Copy-3" transform="translate(-430.000000, -160.000000)">
+            <g id="icon_facebook_messegner" transform="translate(430.000000, 160.000000)">
+                <circle id="Oval-6" fill="url(#linearGradient-1)" cx="20" cy="20" r="20"></circle>
+                <g id="icon_messenger" transform="translate(8.666667, 8.666667)" fill="#FFFFFF">
+                    <path d="M11.2633745,0 C5.04277366,0 0,4.69822634 0,10.4938272 C0,13.7962346 1.63787654,16.7419218 4.19753086,18.6655103 L4.19753086,22.6666667 L8.03260494,20.5488025 C9.05610288,20.8338148 10.1403951,20.9876543 11.2633745,20.9876543 C17.4839753,20.9876543 22.526749,16.289428 22.526749,10.4938272 C22.526749,4.69822634 17.4839753,0 11.2633745,0 L11.2633745,0 Z M12.382716,14.1316872 L9.51440329,11.0534979 L3.91769547,14.1316872 L10.0740741,7.55555556 L13.0123457,10.6337449 L18.5390947,7.55555556 L12.382716,14.1316872 L12.382716,14.1316872 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

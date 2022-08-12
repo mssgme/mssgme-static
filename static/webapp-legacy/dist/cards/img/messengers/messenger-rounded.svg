@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="4.07444165%" x2="50%" y2="99.5555644%" id="linearGradient-1">
+            <stop stop-color="#00ADFF" offset="0%"></stop>
+            <stop stop-color="#0071FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Contact-Page-New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-3.0" transform="translate(-24.000000, -121.000000)">
+            <g id="Group-9" transform="translate(24.000000, 121.000000)">
+                <circle id="Oval-6" fill="url(#linearGradient-1)" cx="20" cy="20" r="20"></circle>
+                <path d="M19.9300415,8.666667 C13.7094407,8.666667 8.666667,13.3648933 8.666667,19.1604942 C8.666667,22.4629016 10.3045435,25.4085888 12.8641979,27.3321773 L12.8641979,31.3333337 L16.6992719,29.2154695 C17.7227699,29.5004818 18.8070621,29.6543213 19.9300415,29.6543213 C26.1506423,29.6543213 31.193416,24.956095 31.193416,19.1604942 C31.193416,13.3648933 26.1506423,8.666667 19.9300415,8.666667 L19.9300415,8.666667 Z M21.049383,22.7983542 L18.1810703,19.7201649 L12.5843625,22.7983542 L18.7407411,16.2222226 L21.6790127,19.3004119 L27.2057617,16.2222226 L21.049383,22.7983542 L21.049383,22.7983542 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
