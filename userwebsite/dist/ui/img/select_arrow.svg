@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_bird</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M396.991117,2042.5 L393.683058,2045.52451 C393.438981,2045.74767 393.438981,2046.10948 393.683058,2046.33263 C393.927136,2046.55579 394.322864,2046.55579 394.566942,2046.33263 L398.316942,2042.90406 C398.561019,2042.6809 398.561019,2042.3191 398.316942,2042.09594 L394.566942,2038.66737 C394.322864,2038.44421 393.927136,2038.44421 393.683058,2038.66737 C393.438981,2038.89052 393.438981,2039.25233 393.683058,2039.47549 L396.991117,2042.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inputs" transform="translate(-392.000000, -2040.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon_bird" fill="#000000" fill-rule="nonzero" transform="translate(396.000000, 2042.500000) scale(-1, 1) rotate(90.000000) translate(-396.000000, -2042.500000) " xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
