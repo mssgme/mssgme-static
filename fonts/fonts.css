@@ -1,23 +1,44 @@
 @font-face {
-    font-family: 'Helvetica Neue';
-    src: url('HelveticaNeueCyr-Medium.woff2') format('woff2'),
-        url('HelveticaNeueCyr-Medium.woff') format('woff');
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('Inter-Light-BETA.woff2?v=3.11') format('woff2'),
+    url('Inter-Light-BETA.woff?v=3.11') format('woff');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('Inter-Regular.woff2?v=3.11') format('woff2'),
+    url('Inter-Regular.woff?v=3.11') format('woff');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style:  normal;
     font-weight: 500;
-    font-style: normal;
+    font-display: swap;
+    src: url('Inter-Medium.woff2?v=3.11') format('woff2'),
+    url('Inter-Medium.woff?v=3.11') format('woff');
 }
 
 @font-face {
-    font-family: 'Helvetica Neue';
-    src: url('HelveticaNeueCyr-Bold.woff2') format('woff2'),
-        url('HelveticaNeueCyr-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('Inter-SemiBold.woff2?v=3.11') format('woff2'),
+    url('Inter-SemiBold.woff?v=3.11') format('woff');
 }
 
 @font-face {
-    font-family: 'Helvetica Neue';
-    src: url('HelveticaNeueCyr-Roman.woff2') format('woff2'),
-        url('HelveticaNeueCyr-Roman.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('Inter-Bold.woff2?v=3.11') format('woff2'),
+    url('Inter-Bold.woff?v=3.11') format('woff');
 }
