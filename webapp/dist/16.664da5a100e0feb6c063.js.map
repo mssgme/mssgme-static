@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:////drone/src/packages/landings/src/UI/Form/Fields/GlyphField/Picker.js"],"names":[],"mappings":"8FAAA","file":"16.664da5a100e0feb6c063.js","sourcesContent":["export { Picker as default } from 'emoji-mart';\n"],"sourceRoot":""}
