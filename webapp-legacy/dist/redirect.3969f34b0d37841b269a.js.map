@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///external \"CONFIG\""],"names":["module","exports","CONFIG"],"mappings":"4EAAAA,EAAOC,QAAUC,S","file":"redirect.3969f34b0d37841b269a.js","sourcesContent":["module.exports = CONFIG;"],"sourceRoot":""}
