@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"I/uX":function(o){o.exports=JSON.parse('{"not_have":"Don’t have {0} app?","download_it":"Download it now!","write_on":"Write {0} on {1}","click_on_button":"If you have the \\"{0}\\" on your computer, click the button below 👇","send":"Send Message","scan_qr":"or scan the QR code to write from a mobile device"}')}}]);
+//# sourceMappingURL=locale.3.1749c9c24edf882ebe42.js.map
